@@ -20,6 +20,7 @@ The dataset we are using is named `netflix_titles.csv`. It contains information 
 The notebook is split into 4 levels that get progressively more challenging:
 
 ### Phase 1: Beginner Level Foundations (Q1 - Q25)
+
 * Learning how to load data and look at rows and columns.
 * Selecting specific columns, sorting data, and removing columns we don't need.
 * Basic filtering (like showing *only* Movies).
@@ -47,5 +48,6 @@ The notebook is split into 4 levels that get progressively more challenging:
 ├── data/
 │   └── netflix_titles.csv          # The raw data file
 ├── notebooks/
-│   └── pandas_mastery_challenge.ipynb # My Jupyter Notebook with questions & code
+│   └── pandas_challenge_solutions.ipynb # My Jupyter Notebook with questions & code
 └── README.md                       # This file!
+
